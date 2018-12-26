@@ -1,0 +1,11 @@
+React Notes
+
+1) Install Node.js
+2) Install create-react-app
+3) See the github url: https://github.com/facebook/create-react-app
+$ sudo npm install -g create-react-app
+4) Go to the desired dir and create your new react app by
+$ create-react-app myreactapp
+5) Go to myreactapp and start react app by
+$ npm start
+6) This will launch a new localhost browser window
